@@ -1,5 +1,5 @@
 //Temp in Kelvin
-const kelvin = 0;
+const kelvin = 293;
 //Convert to Celsius
 const celsius = kelvin - 273;
 //Convert to Fahrenheit, rounded down
